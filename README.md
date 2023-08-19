@@ -34,19 +34,3 @@ to our text.
 It will also enable the user to use different font colors along with the
 features of text editor which gives the user a whole new experience as
 compared to the old traditional text editor.
-
-
-![Screenshot (162)](https://user-images.githubusercontent.com/99782520/219855641-b89f8636-476d-4703-b7c0-18fedabe4598.png)
-![Screenshot (163)](https://user-images.githubusercontent.com/99782520/219855653-efcc076b-6c46-4f4c-bb0f-d2fe4e403317.png)
-
-![Screenshot (165)](https://user-images.githubusercontent.com/99782520/219855674-907231a4-372f-4541-bb2d-ff962d627b1f.png)
-![Screenshot (166)](https://user-images.githubusercontent.com/99782520/219855676-9ed6eed6-239a-4427-a3d0-a5003b48acf2.png)
-![Screenshot (164)](https://user-images.githubusercontent.com/99782520/219855677-73618877-b1a7-463e-af06-f135e802191a.png)
-
-
-![Screenshot (171)](https://user-images.githubusercontent.com/99782520/219855687-b65cc4c0-1f1e-42f3-a9ee-51d33dfd2d73.png)
-![Screenshot (167)](https://user-images.githubusercontent.com/99782520/219855689-5cbd0196-765b-4c76-8b0b-68ef4a39d97c.png)
-![Screenshot (168)](https://user-images.githubusercontent.com/99782520/219855690-0cbffa61-181e-45de-bd0f-b6a40d62321b.png)
-![Screenshot (169)](https://user-images.githubusercontent.com/99782520/219855691-dcf9dd6a-9a08-44ee-9fac-8a0526dbab2e.png)
-![Screenshot (170)](https://user-images.githubusercontent.com/99782520/219855692-5adf846f-9ec7-442b-aa74-3695c3f6ca45.png)
-
